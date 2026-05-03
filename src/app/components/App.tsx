@@ -1,7 +1,7 @@
-import EngagementHero from '@/imports/EngagementHero'
-import TheMoment from '@/imports/TheMoment'
-import MeetTheCouple from '@/imports/MeetTheCouple'
-import PhotoAlbum from '@/imports/PhotoAlbum'
+import EngagementHero from '../../imports/EngagementHero'
+import TheMoment from '../../imports/TheMoment'
+import MeetTheCouple from '../../imports/MeetTheCouple'
+import PhotoAlbum from '../../imports/PhotoAlbum'
 
 export default function App() {
   return (
